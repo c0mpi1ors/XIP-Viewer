@@ -1,6 +1,6 @@
 # XIP Viewer
 
-This tool is used to browser an xip file or extract file from xip file.
+This tool is used to browser an apple *.xip;*.pkg file or extract file from *.xip;*.pkg file.
 
 ![GUI](gui.png)
 
